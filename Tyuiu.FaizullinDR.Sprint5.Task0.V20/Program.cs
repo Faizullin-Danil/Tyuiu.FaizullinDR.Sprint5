@@ -35,7 +35,7 @@ namespace Tyuiu.FaizullinDR.Sprint5.Task0.V20
 
             int x = 2;
             Console.WriteLine("x = " + x);
-
+             
             Console.WriteLine("****************************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                                           *");
             Console.WriteLine("****************************************************************************************");

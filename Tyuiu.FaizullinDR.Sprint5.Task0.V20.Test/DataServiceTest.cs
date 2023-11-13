@@ -6,7 +6,7 @@ using Tyuiu.FaizullinDR.Sprint5.Task0.V20.Lib;
 
 namespace Tyuiu.FaizullinDR.Sprint5.Task0.V20.Test
 {
-    [TestClass]
+    [TestClass] 
     public class DataServiceTest
     {
         [TestMethod]

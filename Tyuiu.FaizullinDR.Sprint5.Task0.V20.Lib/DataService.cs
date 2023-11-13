@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.IO; // для рвботы с классом File
+using System.IO; // для рвботы с классом File 
 
 using tyuiu.cources.programming.interfaces.Sprint5;
 
