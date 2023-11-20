@@ -11,7 +11,7 @@ namespace Tyuiu.FaizullinDR.Sprint5.Task4.V24.Test
         [TestMethod]
         public void TestMethod1()
         {
-            string path = @"C:\Users\toxen\source\repos\Tyuiu.FaizullinDR.Sprint5\Tyuiu.FaizullinDR.Sprint5.Task4.V24\bin\debug\InPutDataFileTask4.txt";
+            string path = @"C:\DataSprint5\InPutDataFileTask4V24.txt";
             FileInfo fileinfo = new FileInfo(path);
             bool FileExists = fileinfo.Exists;
             bool wait = true;
